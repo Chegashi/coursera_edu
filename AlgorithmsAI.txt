@@ -1,0 +1,121 @@
+IBM Data Analyst Professional Certificate{
+	Introduction to Data Analytics							10
+	Excel Basics for Data Analysis							12
+	Data Visualization and Dashboards with Excel and Cognos	9
+	Python for Data Science, AI & Development				21
+	Python Project for Data Science							8
+	Databases and SQL for Data Science with Python			37
+	Data Analysis with Python								14
+	Data Visualization with Python							17
+	IBM Data Analyst Capstone Project						21
+}
+
+IBM Data Science Professional Certificate{
+	What is Data Science?							9
+	Tools for Data Science							20
+	Data Science Methodology						8
+	Machine Learning with Python					23
+	Applied Data Science Capstone					17
+}
+
+184 Data Structures and Algorithms{
+	Algorithmic Toolbox						40
+	Data Structures							25
+	Algorithms on Graphs 					55
+	Algorithms on Strings 					19
+	Advanced Algorithms and Complexity		27
+	Genome Assembly Programming Challenge	18
+	}
+
+Machine Learning Specialization{
+	Supervised Machine Learning: Regression and Classification	33
+	Advanced Learning Algorithms								30
+	Unsupervised Learning, Recommenders, Reinforcement Learning	27
+}
+
+90Deep Learning Specialization{
+	Neural Networks and Deep Learning	29
+	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization	27
+	Structuring Machine Learning Projects													10
+	Convolutional Neural Networks															41
+	Sequence Models																			42
+}
+
+71TensorFlow: Data and Deployment Specialization{
+	Browser-based Models with TensorFlow.js			22
+	Device-based Models with TensorFlow Lite		15
+	Data Pipelines with TensorFlow Data Services	16
+	Advanced Deployment Scenarios with TensorFlow	18
+}
+
+122TensorFlow: Advanced Techniques Specialization{
+	Custom Models, Layers, and Loss Functions with TensorFlow	37
+	Custom and Distributed Training with TensorFlow				29
+	Advanced Computer Vision with TensorFlow					29
+	Generative Deep Learning with TensorFlow					27
+}
+
+47Practical Data Science on the AWS Cloud Specialization{
+	Analyze Datasets and Train ML Models using AutoML			19
+	Build, Train, and Deploy ML Pipelines using BERT			14
+	Optimize ML Models and Deploy Human-in-the-Loop Pipelines	14
+}
+
+93Machine Learning Engineering for Production (MLOps) Specialization{
+	Introduction to Machine Learning in Production		12
+	Machine Learning Data Lifecycle in Production		22
+	Machine Learning Modeling Pipelines in Production	26
+	Deploying Machine Learning Models in Production		33
+}
+
+61IBM Applied AI Professional Certificate{
+	Introduction to Artificial Intelligence (AI)		11
+	Getting Started with AI using IBM Watson			11
+	Building AI Powered Chatbots Without Programming	11
+	Python Project for AI & Application Development		11
+	Building AI Applications with Watson APIs			17
+}
+
+110IBM Machine Learning Professional Certificate{
+	IBM Machine Learning Professional Certificate	14
+	Exploratory Data Analysis for Machine Learning	14
+	Supervised Machine Learning: Regression			11
+	Supervised Machine Learning: Classification		25
+	Unsupervised Machine Learning					13
+	Deep Learning and Reinforcement Learning		14
+	Machine Learning Capstone						19
+}
+
+84Advanced Data Science with IBM Specialization{
+	Fundamentals of Scalable Data Science			22
+	Advanced Machine Learning and Signal Processing	28
+	Applied AI with DeepLearning					25
+	Advanced Data Science Capstone					09
+}
+
+127IBM AI Engineering Professional Certificate{
+	Machine Learning with Python								23
+	Introduction to Deep Learning & Neural Networks with Keras	28
+	Introduction to Computer Vision and Image Processing		22
+	Deep Neural Networks with PyTorch							31
+	Building Deep Learning Models with TensorFlow				07
+	AI Capstone Project with Deep Learning						16
+}
+
+129 Natural Language Processing Specialization{
+	Natural Language Processing with Classification and Vector Spaces	35
+	Natural Language Processing with Probabilistic Models				32
+	Natural Language Processing with Sequence Models					25
+	Natural Language Processing with Attention Models					37
+	}
+
+117 Machine Learning Engineer Professional{
+	Google Cloud Big Data and Machine Learning Fundamentals		10
+	How Google does Machine Learning							14
+	Launching into Machine Learning								17
+	TensorFlow on Google Cloud									15
+	Feature Engineering											14
+	Production Machine Learning Systems							21
+	MLOps (Machine Learning Operations) Fundamentals			15
+	ML Pipelines on Google Cloud								11
+	}

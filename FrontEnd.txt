@@ -1,0 +1,10 @@
+Meta Front-End Developer{53
+	Version Control							13
+	HTML and CSS in depth					29
+	React Basics							[26/09]11
+	Advanced React							[07/11]
+	Principles of UI/UX Design				[31/10]
+	Front-End Developer Capstone			[05/12]
+	Coding Interview Preparation			[12/12]
+	}
+
