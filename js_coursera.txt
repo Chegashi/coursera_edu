@@ -1,14 +1,12 @@
-53Meta Front-End Developer{
-	Version Control							13
-	HTML and CSS in depth					29
-	React Basics							[26/09]11
-	Advanced React							[07/11]
-	Principles of UI/UX Design				[31/10]
-	Front-End Developer Capstone			[05/12]
-	Coding Interview Preparation			[12/12]
-	}
+59 Web Design for Everybody: Basics of Web Development & Coding Specialization{
+	Introduction to HTML5					13
+	Introduction to CSS3					12
+	Interactivity with JavaScript			9
+	Advanced Styling with Responsive Design	12
+	Web Design for Everybody Capstone		13
+}
 
-98RESTful Microservices Using Node.js and Express Specialization{
+98 RESTful Microservices Using Node.js and Express Specialization{
 	Server side JavaScript with Node.js								32
 	Building RESTful APIs Using Node.js and Express					17
 	Implement Polyglot Persistence Using SQL and NoSQL Databases	13
@@ -16,25 +14,47 @@
 	Capstone Project Using Node.js									24
 }
 
-115Full-Stack Web Development with React Specialization{
+115 Full-Stack Web Development with React Specialization{
 	Front-End Web UI Frameworks and Tools: Bootstrap 4			31
 	Front-End Web Development with React						36
 	Server-side Development with NodeJS, Express and MongoDB	48
 }
 
-38Full Stack Web Development with Angular Specialization{
+38 Full Stack Web Development with Angular Specialization{
 	Front-End JavaScript Frameworks: Angular	38
 }
 
-40Modern Application Development with Node.js on AWS Specialization{
+//53 Meta Front-End Developer{
+//	Version Control							13
+//	HTML and CSS in depth					29
+//	React Basics							[26/09]11
+//	Advanced React							[07/11]
+//	Principles of UI/UX Design				[31/10]
+//	Front-End Developer Capstone			[05/12]
+//	Coding Interview Preparation			[12/12]
+//}
+//
+//Meta React Native Specialization{
+//	Introduction to Mobile Development	12
+//	React Native						[17/10]
+//	Mobile Architecture					[20/11]
+//	Working with Data					[20/12]
+//	Principles of UI/UX Design			[31/10]
+//	Software Development Practices		[5/1]
+//	Capstone (React App)				[5/1]
+//}
+
+40 Modern Application Development with Node.js on AWS Specialization{
 	AWS Cloud Technical Essentials									14
 	Building Modern Node.js Applications on AWS						17
 	Amazon DynamoDB: Building NoSQL Database-Driven Applications	09
 }
 
-12JavaScript Security Specialization{
+12 JavaScript Security Specialization{
 	JavaScript Security Refreshers	3
 	JavaScript Security Part 1		3
 	JavaScript Security Part 2		4
 	JavaScript Security Part 3		2
 }
+
+506

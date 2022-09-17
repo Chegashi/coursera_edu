@@ -1,23 +1,3 @@
-Meta Back-End Developer{
-	Introduction to Back-End Development				18
-	Programming in Python								45
-	Introduction to Databases for Back-End Development	27
-	Django Web Framework								[24/09]
-	APIs												[04/11]
-	The Full Stack										[12/12]
-	Cloud Computing										[05/01]
-	Back-End Developer Capstone							[18/12]
-	}
-
-Meta Database Engineer{
-	Introduction to Databases							27
-	Database Structures and Management with MySQL	[19/09]
-	Advanced MySQL Topics							[19/09]
-	Database Clients								[12/12]
-	Advanced Data Modeling							[02/01]
-	Database Engineer Capstone						[02/01]
-	}
-
 IBM DevOps and Software Engineering Professional Certificate{
 	Introduction to DevOps											09
 	Introduction to Cloud Computing									13
@@ -46,7 +26,7 @@ Meta Android Developer{
 	Android Mobile Lifecycle and Software Development Approaches	[30/07]
 	The Web and Databases in Android								[17/10]
 	Android App Capstone											[02/01]
-	}
+}
 
 Meta iOS Developer{
 	Introduction to iOS Mobile Application Development	[22/08]
@@ -54,86 +34,14 @@ Meta iOS Developer{
 	Create the User Interface in UIKit and SwiftUI		[30/07]
 	The Web and Databases in iOS						[30/08]
 	iOS App Capstone									[30/08]
-	}
-
-[aws]
-_________________________________________________________________
-
-
-207 IBM Data Engineering{
-	Introduction to Data Engineering								12
-	Python for Data Science, AI & Development 						21
-	Python Project for Data Engineering								07
-	Introduction to Relational Databases (RDBMS)					16
-	Databases and SQL for Data Science with Python					37
-	Hands-on Introduction to Linux Commands and Shell Scripting		13
-	Relational Database Administration (DBA)						19
-	ETL and Data Pipelines with Shell, Airflow and Kafka			14
-	Getting Started with Data Warehousing and BI Analytics			16
-	Introduction to NoSQL Databases									18
-	Introduction to Big Data with Spark and Hadoop					13
-	Data Engineering and Machine Learning using Spark				08
-	Data Engineering Capstone Project								13
-	}
-
-188 Google Data Analytics{
-	Foundations: Data, Data, Everywhere						22
-	Ask Questions to Make Data-Driven Decisions				21
-	Prepare Data for Exploration							25
-	Process Data from Dirty to Clean						24
-	Analyze Data to Answer Questions						26
-	Share Data Through the Art of Visualization				24
-	Data Analysis with R Programming						37
-	Google Data Analytics Capstone: Complete a Case Study	09
-	}
-
-184 Data Structures and Algorithms{
-	Algorithmic Toolbox						40
-	Data Structures							25
-	Algorithms on Graphs 					55
-	Algorithms on Strings 					19
-	Advanced Algorithms and Complexity		27
-	Genome Assembly Programming Challenge	18
-	}
-
-129 Deep Learning Specialization{
-	Neural Networks and Deep Learning														29
-	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization	27
-	Structuring Machine Learning Projects													10
-	Convolutional Neural Networks															41
-	Sequence Models																			42
-	}
-
-129 Natural Language Processing Specialization{
-	Natural Language Processing with Classification and Vector Spaces	35
-	Natural Language Processing with Probabilistic Models				32
-	Natural Language Processing with Sequence Models					25
-	Natural Language Processing with Attention Models					37
-	}
-
-117 Machine Learning Engineer Professional{
-	Google Cloud Big Data and Machine Learning Fundamentals		10
-	How Google does Machine Learning							14
-	Launching into Machine Learning								17
-	TensorFlow on Google Cloud									15
-	Feature Engineering											14
-	Production Machine Learning Systems							21
-	MLOps (Machine Learning Operations) Fundamentals			15
-	ML Pipelines on Google Cloud								11
-	}
-
-090 Machine Learning Specialization{
-	Supervised Machine Learning: Regression and Classification		33
-	Advanced Learning Algorithms									30
-	Unsupervised Learning, Recommenders, Reinforcement Learning		27
-	}
+}
 
 067 Blockchain{
 	Blockchain Basics					16
 	Smart Contracts						17
 	Decentralized Applications (Dapps) 	18
 	Blockchain Platforms				16
-	}
+}
 
 056 Systems Security Certified Practitioner{
 	Introducing Security: Aligning Asset and Risk Management	7
@@ -144,24 +52,16 @@ _________________________________________________________________
 	Cloud and Wireless Security									6
 	Incident Detection and Response								6
 	Maturing Risk Management									7
-	}
+}
 
 023 Computer Forensics{
 	Digital Forensics Concepts	7
 	Windows OS Forensics		8
 	Windows Registry Forensics	8
-	}
-
-019 Python for Cybersecurity{
-	Introduction to Python for Cybersecurity 						4
-	Execution, persistence, privilege escalation and evasion		4
-	Credential Access, discovery, lateral movement & collection		4
-	Python for Command-and-control, Exfiltration and Impact			3
-	Python for Active Defense										4
-	}
+}
 
 009 OWASP Top 10 - 2021{
 	OWASP Top 10 - Welcome and Risks 1-5	4
 	OWASP Top 10 - Risks 6-10				3
 	Previous OWASP Risks					2
-	}
+}

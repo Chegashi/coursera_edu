@@ -1,0 +1,194 @@
+98 Data Engineering Foundations Specialization{
+    Introduction to Data Engineering                14
+    Python for Data Science, AI & Development       21
+    Python Project for Data Engineering             07
+    Introduction to Relational Databases (RDBMS)    19
+    Databases and SQL for Data Science with Python  37
+}
+
+64 IBM Data Warehouse Engineer Professional Certificate{
+    Hands-on Introduction to Linux Commands and Shell Scripting 13
+    Relational Database Administration (DBA)                    21
+    ETL and Data Pipelines with Shell, Airflow and Kafka        14
+    Getting Started with Data Warehousing and BI Analytics      16
+}
+
+39 NoSQL, Big Data, and Spark Foundations Specialization{
+    Introduction to NoSQL Databases                     18
+    Introduction to Big Data with Spark and Hadoop      13
+    Data Engineering and Machine Learning using Spark   08
+}
+
+214 Data Engineering Capstone Project [ 13 ]
+
+37 Introduction to Data Science Specialization {
+    What is Data Science?       09
+    Tools for Data Science      20
+    Data Science Methodology    08
+}
+
+22 Data Science Fundamentals with Python and SQL Specialization{
+    Python Project for Data Science         08
+    Statistics for Data Science with Python 14
+}
+
+48 Applied Data Science Specialization{
+    Data Analysis with Python       14
+    Data Visualization with Python  17
+    Applied Data Science Capstone   17
+}
+
+23 IBM Data Science Professional Certificate{
+    Machine Learning with Python    23
+}
+
+84 Advanced Data Science with IBM Specialization{
+    Fundamentals of Scalable Data Science           22
+    Advanced Machine Learning and Signal Processing 28
+    Applied AI with DeepLearning                    25
+    Advanced Data Science Capstone                  09
+}
+
+214 Data Science []
+
+__________________________________________________________________________________________
+
+32 Data Analysis and Visualization Foundations Specialization {
+    Introduction to Data Analytics                              10
+    Excel Basics for Data Analysis                              12
+    Data Visualization and Dashboards with Excel and Cognos     09
+    Assessment for Data Analysis and Visualization Foundations  01
+}
+
+21 IBM Data Analyst Professional Certificate{
+    IBM Data Analyst Capstone Project   21
+}
+
+91 IBM Data Analytics with Excel and R Professional Certificate{
+    Introduction to R Programming for Data Science  10
+    SQL for Data Science with R                     28
+    Data Analysis with R                            16
+    Data Visualization with R                       11
+    Data Science with R - Capstone Project          26
+}
+
+144 Data Analytics []
+__________________________________________________________________________________________
+
+63 IBM Introduction to Machine Learning Specialization{
+    Exploratory Data Analysis for Machine Learning  14
+    Supervised Machine Learning: Regression         11
+    Supervised Machine Learning: Classification     25
+    Unsupervised Machine Learning                   13
+}
+
+33 IBM Machine Learning Professional Certificate{
+    Deep Learning and Reinforcement Learning    14
+    Machine Learning Capstone                   19
+}
+
+33 AI Foundations for Everyone Specialization{
+    Introduction to Artificial Intelligence (AI)        11
+    Getting Started with AI using IBM Watson            11
+    Building AI Powered Chatbots Without Programming    11
+}
+
+24 IBM Applied AI Professional Certificate{
+    Python Project for AI & Application Development     7
+    Building AI Applications with Watson APIs          17
+}
+
+84 IBM AI Engineering Professional Certificate{
+    Introduction to Deep Learning & Neural Networks with Keras  8
+    Introduction to Computer Vision and Image Processing        22
+    Deep Neural Networks with PyTorch                           31
+    Building Deep Learning Models with TensorFlow               07
+    AI Capstone Project with Deep Learning                      16
+}
+
+71 IBM AI Enterprise Workflow Specialization{
+    AI Workflow: Business Priorities and Data Ingestion         8
+    AI Workflow: Data Analysis and Hypothesis Testing           11
+    AI Workflow: Feature Engineering and Bias Detection         12
+    AI Workflow: Machine Learning, Visual Recognition and NLP   14
+    AI Workflow: Enterprise Model Deployment                    09
+    AI Workflow: AI in Production                               17
+}
+
+3 IBM AI Foundations for Business Specialization{
+    The AI Ladder: A Framework for Deploying AI in your Enterprise  3
+}
+
+311 IA []
+__________________________________________________________________________________________
+
+13 Key Technologies for Business Specialization{
+    Introduction to Cloud Computing 13
+}
+
+13 IBM & Darden Digital Strategy Specialization{
+    The Strategist's Challenge                      5
+    Introduction to Digital Transformation Part 1   4
+    Introduction to Digital Transformation Part 2   4
+}
+
+26 BI []
+__________________________________________________________________________________________
+ 909
+__________________________________________________________________________________________
+
+DevOps, Cloud, and Agile Foundations Specialization{
+    Introduction to DevOps                      9
+    Introduction to Cloud Computing             13
+    Introduction to Agile Development and Scrum 10
+}
+
+Applied Software Engineering Fundamentals Specialization{
+    Introduction to Software Engineering    14
+    Getting Started with Git and GitHub     08
+}
+
+IBM DevOps and Software Engineering Professional Certificate{
+    Introduction to Containers w/ Docker, Kubernetes & OpenShift    13
+    Application Development using Microservices and Serverless      10
+    Introduction to Test Driven Development (TDD)                   11
+    Continuous Integration and Continuous Delivery (CI/CD)          10
+    Application Security and Monitoring                             13
+    DevOps Capstone Project                                         [26/9]
+}
+
+IBM DevOps and Software Engineering Professional Certificate { }
+
+IT Fundamentals for Cybersecurity Specialization{
+    Introduction to Cybersecurity Tools & Cyber Attacks         20
+    Cybersecurity Roles, Processes & Operating System Security  15
+    Cybersecurity Compliance Framework & System Administration  16
+    Network Security & Database Vulnerabilities                 14
+}
+
+Security Analyst Fundamentals Specialization{
+    Penetration Testing, Incident Response and Forensics    17
+    Cyber Threat Intelligence                               28
+    Cybersecurity Capstone: Breach Response Case Studies    16
+    Penetration Testing, Incident Response and Forensics    17
+}
+
+IBM Cybersecurity Analyst Professional Certificate{
+    IBM Cybersecurity Analyst Assessment    4
+}
+
+IBM z/OS Mainframe Practitioner Professional Certificate{
+    Introduction to Enterprise Computing                        10
+    Getting Started on Mainframe with z/OS Commands and Panels  15
+    Basic System Programming on IBM Z                           18
+}
+
+IBM Mainframe Developer Professional Certificate{
+    IBM COBOL Basics                            14
+    IBM COBOL Core                              11
+    IBM COBOL Software Development Practices    18
+    IBM COBOL Data and File Management          17
+    IBM COBOL Basic Testing and Debugging       14
+    IBM COBOL Software Development Process      17
+}
+

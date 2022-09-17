@@ -1,22 +1,22 @@
-Meta Back-End Developer{
+90 Meta Back-End Developer{
 	Introduction to Back-End Development					18
 	Programming in Python									45
 	Introduction to Databases for Back-End Development		27
-	Django Web Framework									[24/09]§§§§
+	Django Web Framework									[24/09]
 	APIs													[04/11]
 	The Full Stack											[12/12]
 	Cloud Computing											[05/01]
 	Back-End Developer Capstone								[18/12]
-	}
+}
 
-Python for Everybody Specialization{62
+62 Python for Everybody Specialization{
 	Programming for Everybody (Getting Started with Python)				19
 	Python Data Structures												19
 	Using Databases with Python											15
 	Capstone: Retrieving, Processing, and Visualizing Data with Python	09
 }
 
-Google IT Automation with Python Professional Certificate{115
+115 Google IT Automation with Python Professional Certificate{
 	Crash Course on Python								28
 	Using Python to Interact with the Operating System	27
 	Introduction to Git and GitHub						16
@@ -25,43 +25,38 @@ Google IT Automation with Python Professional Certificate{115
 	Automating Real-World Tasks with Python				13
 }
 
-207 IBM Data Engineering  {
-	Introduction to Data Engineering								12
-	Introduction to Relational Databases (RDBMS)					16
-	Hands-on Introduction to Linux Commands and Shell Scripting		13
-	Relational Database Administration (DBA)						19
-	ETL and Data Pipelines with Shell, Airflow and Kafka			14
-	Getting Started with Data Warehousing and BI Analytics			16
-	Introduction to NoSQL Databases									18
-	Introduction to Big Data with Spark and Hadoop					13
-	Data Engineering and Machine Learning using Spark				08
-	Data Engineering Capstone Project								13
-	}
-
-Django for Everybody Specialization{
+63 Django for Everybody Specialization{
 	Web Application Technologies and Django			15
 	Building Web Applications in Django				13
 	Django Features and Libraries					16
 	Using JavaScript, JQuery, and JSON in Django	19
 }
 
-Modern Application Development with Python on AWS Specialization{
+37 Advanced Django: Mastering Django and Django Rest Framework Specialization
+{
+	Advanced Django: Building a Blog						10
+	Advanced Django: Introduction to Django Rest Framework	09
+	Advanced Django: Advanced Django Rest Framework			09
+	Advanced Django: External APIs and Task Queuing			09
+}
+
+45 Modern Application Development with Python on AWS Specialization{
 	AWS Cloud Technical Essentials									14
 	Building Modern Python Applications on AWS						18
-	Amazon DynamoDB: Building NoSQL Database-Driven Applications	9
-	Improve Your Python Code Using Amazon CodeGuru					4
+	Amazon DynamoDB: Building NoSQL Database-Driven Applications	09
+	Improve Your Python Code Using Amazon CodeGuru					04
 }
 
-Python for Cybersecurity Specialization{19
-	Introduction to Python for Cybersecurity	4
-	Execution, persistence, privilege escalation and evasion	4
-	Credential Access, discovery, lateral movement & collection	4
-	Python for Command-and-control, Exfiltration and Impact		3
-	Python for Active Defense									4
+19 Python for Cybersecurity Specialization{
+	Introduction to Python for Cybersecurity					04
+	Execution, persistence, privilege escalation and evasion	04
+	Credential Access, discovery, lateral movement & collection	04
+	Python for Command-and-control, Exfiltration and Impact		03
+	Python for Active Defense									04
 }
 
-Advanced Python Scripting for Cybersecurity Specialization{
-	Advanced Python - Reconnaissance							3
-	Establishing Command-and-Control and Finding Credentials	3
-	Defensive Python											2
+7 Advanced Python Scripting for Cybersecurity Specialization{
+	Advanced Python - Reconnaissance							03
+	Establishing Command-and-Control and Finding Credentials	03
+	Defensive Python											02
 }
