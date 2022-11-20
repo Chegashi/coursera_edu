@@ -1,0 +1,17 @@
+76 Meta Front-End Developer{
+	HTML and CSS in depth					29
+	Advanced React							25
+	Principles of UI/UX Design				22
+}
+
+90 Meta Back-End Developer{
+	Introduction to Back-End Development					18
+	Programming in Python									45
+	Introduction to Databases for Back-End Development		27
+}
+
+123 Meta Database Engineer Professional Certificate{
+	Introduction to Databases						27
+	Database Structures and Management with MySQL	32
+	Advanced MySQL Topics							19
+}

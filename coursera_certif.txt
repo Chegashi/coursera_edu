@@ -263,12 +263,12 @@ Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate{
 ------------------------------  AWS ------------------------------------
 
 AWS Fundamentals Specialization{
-    AWS Cloud Technical Essentials              14
-    AWS Fundamentals: Addressing Security Risk  6
-    AWS Fundamentals: Migrating to the Cloud    4
+    AWS Fundamentals: Building Serverless Applications  11
+    AWS Cloud Technical Essentials                      18
+    AWS Fundamentals: Addressing Security Risk          6
+    AWS Fundamentals: Migrating to the Cloud            7
 }
 
-AWS Fundamentals: Building Serverless Applications
 
 DevOps on AWS Specialization{
     DevOps on AWS: Code, Build, and Test    4
@@ -462,16 +462,6 @@ Google Professional Workspace Administrator Professional Certificate{
 	Coding Interview Preparation			[12/12]
 }
 
-Meta React Native Specialization{
-	Introduction to Mobile Development	12
-	React Native						[17/10]
-	Mobile Architecture					[20/11]
-	Working with Data					[20/12]
-	Principles of UI/UX Design			[31/10]
-	Software Development Practices		[5/1]
-	Capstone (React App)				[5/1]
-}
-
 90 Meta Back-End Developer{
 	Introduction to Back-End Development					18
 	Programming in Python									45
@@ -480,18 +470,10 @@ Meta React Native Specialization{
 	APIs													[04/11]
 	The Full Stack											[12/12]
 	Cloud Computing											[05/01]
-	Back-End Developer Capstone								[18/12]
+	    								[18/12]
 }
 
-Meta iOS Developer{
-	Introduction to iOS Mobile Application Development	[22/08]
-	Programming Fundamentals in Swift					[19/10]
-	Create the User Interface in UIKit and SwiftUI		[30/07]
-	The Web and Databases in iOS						[30/08]
-	iOS App Capstone									[30/08]
-}
-
-Meta Database Engineer Professional Certificate{
+Meta Database Engineer Professional Certificate{l
 	Introduction to Databases	27
 	Version Control				13
 	Database Structures and Management with MySQL	32
@@ -501,20 +483,6 @@ Meta Database Engineer Professional Certificate{
 	Advanced Data Modeling							[2/1]
 	Database Engineer Capstone						[2/1]
 	Coding Interview Preparation					[12/12]
-}
-
-Meta Android Developer{
-	Introduction to Android Mobile Application Development				12
-	Programming Fundamentals in Kotlin									25
-	Advanced Programming in Kotlin									[17/10]
-	Create the User Interface in Android Studio						[14/11]
-	Working with Data in Android									[12/12]
-	Advanced Android Development									[02/01]
-	Mobile Development and JavaScript								[02/01]
-	React Native													[17/10]
-	Android Mobile Lifecycle and Software Development Approaches	[30/07]
-	The Web and Databases in Android								[17/10]
-	Android App Capstone											[02/01]
 }
 
 ************

@@ -1,0 +1,66 @@
+A-Data Engineering Foundations Specialization
+	Introduction to Data Engineering                14
+    Python for Data Science, AI & Development       21
+    Python Project for Data Engineering             07
+    Introduction to Relational Databases (RDBMS)    19
+    Databases and SQL for Data Science with Python  37
+
+B-Introduction to Data Science Specialization
+	What is Data Science?
+	Tools for Data Science
+	Data Science Methodology
+
+C-Data Analysis and Visualization Foundations Specialization
+	Introduction to Data Analytics
+	Excel Basics for Data Analysis
+	Data Visualization and Dashboards with Excel and Cognos
+	Assessment for Data Analysis and Visualization Foundations
+
+A-Hands-on Introduction to Linux Commands and Shell Scripting 13
+    Relational Database Administration (DBA)                    21
+    ETL and Data Pipelines with Shell, Airflow and Kafka        14
+    Getting Started with Data Warehousing and BI Analytics      16
+
+B-Applied Data Science Specialization
+	Python Project for Data Science
+	Data Analysis with Python
+	Data Visualization with Python
+	Applied Data Science Capstone
+	Machine Learning with Python
+
+C-IBM Data Analyst Capstone Project
+	Introduction to NoSQL Databases                     18
+    Introduction to Big Data with Spark and Hadoop      13
+    Data Engineering and Machine Learning using Spark   08
+	Data Engineering Capstone Project [ 13 ]
+
+D-IBM Introduction to Machine Learning Specialization
+	Exploratory Data Analysis for Machine Learning
+	Supervised Machine Learning: Regression
+	Supervised Machine Learning: Classification
+	Unsupervised Machine Learning
+
+E-
+	Deep Learning and Reinforcement Learning
+	Machine Learning Capstone
+
+F- Introduction to Artificial Intelligence (AI)
+	Getting Started with AI using IBM Watson
+	Building AI Powered Chatbots Without Programming
+
+G-Python Project for AI & Application Development
+Building AI Applications with Watson APIs
+
+IBM AI Enterprise Workflow Specialization
+	AI Workflow: Business Priorities and Data Ingestion
+	AI Workflow: Data Analysis and Hypothesis Testing
+	AI Workflow: Feature Engineering and Bias Detection
+	AI Workflow: Machine Learning, Visual Recognition and NLP
+	AI Workflow: Enterprise Model Deployment
+	AI Workflow: AI in Production
+
+Advanced Data Science with IBM Specialization
+	Fundamentals of Scalable Data Science
+	Advanced Machine Learning and Signal Processing
+	Applied AI with DeepLearning
+	Advanced Data Science Capstone

@@ -1,0 +1,22 @@
+game
+exam_06
+Python 3 Programming Specialization
+Python_Module
+Data Engineering Foundations Specialization 98
+Google IT Automation with Python Professional Certificate
+Databases for Data Scientists Specialization
+Data Structures and Algorithms Specialization
+IBM Data Warehouse Engineer Professional Certificate
+Data Engineering Capstone Project
+Java Programming and Software Engineering Fundamentals Specialization
+AWS Fundamentals Specialization
+Practical Data Science on the AWS Cloud Specialization
+Developing APIs with Google Cloud's Apigee API Platform Specialization
+Data Engineering, Big Data, and Machine Learning on GCP Specialization
+Machine_Learning_Specialization
+ML_Module
+regresion
+dslr
+Deep Learning Specialization
+perceptron
+vortex
